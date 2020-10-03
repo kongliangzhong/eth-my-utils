@@ -1,0 +1,19 @@
+{
+  "name": "eth-my-utils",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/index.js",
+  "scripts": {
+    "compile": "tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "truffle-privatekey-provider": "^1.5.0",
+    "web3": "^1.3.0"
+  },
+  "devDependencies": {
+    "typescript": "^4.0.3"
+  }
+}
